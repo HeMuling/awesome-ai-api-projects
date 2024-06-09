@@ -4,20 +4,20 @@
 
 可以使用ai api（例如openai api，gemini api等）的各种项目列表。
 
-- [ChatAI](# ChatAI)
+- [ChatAI](#ChatAI)
   - [Web app](#Web-app)
-  - [Desktop app](#Desktop app)
-  - [Phone app](#Phone app)
-  - [Bot](# Bot)
-- [AI Agent](#AI Agent)
+  - [Desktop app](#Desktop-app)
+  - [Phone app](#Phone-app)
+  - [Bot](#Bot)
+- [AI Agent](#AI-Agent)
   - [Framework](#Framework)
   - [File](#File)
   - [Task](#Task)
-  - [Research](# Research)
-  - [Web crawler](# Web crawler)
+  - [Research](#Research)
+  - [Web crawler](#Web-crawler)
 - [Extension](#Extension)
-  - [Browser](# Browser)
-  - [IDE](# IDE)
+  - [Browser](#Browser)
+  - [IDE](#IDE)
 
 ## ChatAI
 
