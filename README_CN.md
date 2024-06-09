@@ -18,7 +18,7 @@
 - [Extension](#Extension)
   - [Browser](#Browser)
   - [IDE](#IDE)
-  - [Terminal/Shell](#Terminal/Shell)
+  - [Terminal/Shell](#TerminalShell)
 
 ## ChatAI
 
