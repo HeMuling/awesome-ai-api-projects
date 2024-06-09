@@ -18,6 +18,7 @@ A list of projects that can use various ai api (e.g. openai api, gemini api .etc
 - [Extension](#Extension)
   - [Browser](#Browser)
   - [IDE](#IDE)
+  - [Terminal/Shell](#Terminal/Shell)
 
 ## ChatAI
 
