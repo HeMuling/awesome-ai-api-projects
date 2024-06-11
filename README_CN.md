@@ -1,6 +1,8 @@
 # Awesome AI Api Projects
 
-|[English](README.md)|简体中文|
+**活跃项目列表：**|[English](README.md)|简体中文|——正在活跃更新的项目
+
+**弃置项目列表：**|[English](deprecated_EN.md)|[简体中文](deprecated_CN.md)|——一段时间未更新的项目
 
 可以使用ai api（例如openai api，gemini api等）的各种项目列表。
 
@@ -29,7 +31,6 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [lobe-chat](https://github.com/lobehub/lobe-chat)            | LLMs 聊天应用与开发框架支持语音合成、多模态、可扩展的插件系统。支持社区助手、插件分享。 | open                   | Both, official       | 全能, 本地模型                                               | ![GitHub last commit](https://img.shields.io/github/last-commit/lobehub/lobe-chat?label=%20) |
 | [Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | 为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能：支持 GPT-4 · 基于文件问答 · LLM本地部署 · 联网搜索 · Agent 助理 · 支持 Fine-tune | open                   | Both                 | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/GaiZhenbiao/ChuanhuChatGPT?label=%20) |
-| [ChatGPT-PerfectUI](https://github.com/ConnectAI-E/ChatGPT-PerfectUI) | 基于Vue3 + Vite + Tailwindcss，复刻ChatGPT网页，体验一模一样的web-app！ | open                   | Local only           | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/ConnectAI-E/ChatGPT-PerfectUI?label=%20) |
 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 一键免费部署你的跨平台私人 ChatGPT 应用，支持 GPT3, GPT4 & Gemini Pro 模型。 | open                   | Both                 | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/) | ![GitHub last commit](https://img.shields.io/github/last-commit/ChatGPTNextWeb/ChatGPT-Next-Web?label=%20) |
 | [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)     | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页                   | open                   | Local only           | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/Chanzhaoyu/chatgpt-web?label=%20) |
 | [LibreChat](https://github.com/danny-avila/LibreChat)        | 一个UI配对ChatGPT，包括暗黑模式、流式传输和最新更新，兼容远程与本地AI服务，文件上传分析和高级代理等 | open                   | Local only           | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?label=%20) |
@@ -39,11 +40,14 @@
 
 ### Desktop app
 
-| Name                                            | Description                                                  | Open- or Close- source | Platform              | Api supported                                                | Last update                                                  |
-| ----------------------------------------------- | ------------------------------------------------------------ | ---------------------- | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ChatALL](https://github.com/sunner/ChatALL)    | ChatALL可以把一条指令同时发给多个 AI，帮助您发现最好的回答。 | open                   | Windows, macOS, Linux | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/sunner/ChatALL?label=%20) |
-| [chatbox](https://github.com/Bin-Huang/chatbox) | 你的终极桌面AI助手。 Chatbox是一个桌面客户端，支持ChatGPT、Claude和其他大型语言模型 | open                   | Windows, macOS, Linux | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/Bin-Huang/chatbox?label=%20) |
-| [Noi](https://github.com/lencx/Noi)             | 可定制的AI增强浏览器，提供个性化浏览体验，具有强大的提示管理、批量AI消息功能、主题选择、无需标签的缓存模式以及多账户支持 | open                   | Windows, macOS, Linux | 全能                                                         | ![GitHub last commit](https://img.shields.io/github/last-commit/lencx/Noi?label=%20) |
+| Name                                                         | Description                                                  | Open- or Close- source | Platform              | Api supported                                                | Last update                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [ChatALL](https://github.com/sunner/ChatALL)                 | ChatALL可以把一条指令同时发给多个 AI，帮助您发现最好的回答。 | open                   | Windows, macOS, Linux | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/sunner/ChatALL?label=%20) |
+| [chatbox](https://github.com/Bin-Huang/chatbox)              | 你的终极桌面AI助手。 Chatbox是一个桌面客户端，支持ChatGPT、Claude和其他大型语言模型 | open                   | Windows, macOS, Linux | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/Bin-Huang/chatbox?label=%20) |
+| [Noi](https://github.com/lencx/Noi)                          | 可定制的AI增强浏览器，提供个性化浏览体验，具有强大的提示管理、批量AI消息功能、主题选择、无需标签的缓存模式以及多账户支持 | open                   | Windows, macOS, Linux | 全能                                                         | ![GitHub last commit](https://img.shields.io/github/last-commit/lencx/Noi?label=%20) |
+| [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | 通过读取屏幕，语音或文字输入帮助完成任务                     | open                   | Windows, macOS, Linux | [OpenAI](https://platform.openai.com/playground), [Groq](https://console.groq.com/keys), [Google Gemini](https://ai.google.dev/gemini-api), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/onuratakan/gpt-computer-assistant?label=%20) |
+
+
 
 ### Phone app
 
@@ -85,7 +89,6 @@
 | [lollms-webui](https://github.com/ParisNeo/lollms-webui) | 该项目旨在提供一个用户友好的界面，以便访问和利用各种LLM和其他人工智能模型来执行各种任务。 | open                   | Local only           | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/ParisNeo/lollms-webui?label=%20) |
 | [FastGPT](https://github.com/labring/FastGPT)            | 基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景 | open                   | Both+official        | 全能, 本地模型                                               | ![GitHub last commit](https://img.shields.io/github/last-commit/labring/FastGPT?label=%20) |
 | [DocsGPT](https://github.com/arc53/DocsGPT)              | 简化了在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松提出关于项目的问题并获得准确的答案 | open                   | Both+official        | [OpenAI](https://platform.openai.com/playground), [Claude](https://www.anthropic.com/), 本地模型(特别微调的模型) | ![GitHub last commit](https://img.shields.io/github/last-commit/arc53/DocsGPT?label=%20) |
-| [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)       | 利用LLM阅读pdf                                               | open                   | Local only           | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/bhaskatripathi/pdfGPT?label=%20) |
 
 ### Task
 
@@ -98,7 +101,7 @@
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent)      | 接收 GitHub 问题，并尝试使用LLM自动修复它                    | Debug                            | open                   | Web ui           | Local                | [OpenAI](https://platform.openai.com/playground), [Claude](https://www.anthropic.com/) | ![GitHub last commit](https://img.shields.io/github/last-commit/princeton-nlp/SWE-agent?label=%20) |
 | [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)        | 用生成式人工智能来探索、清洗和分析数据。                     | Data analysis                    | open                   | pip package      | Local                | [OpenAI](https://platform.openai.com/playground), [some strange model](https://docs.pandas-ai.com/llms) | ![GitHub last commit](https://img.shields.io/github/last-commit/Sinaptik-AI/pandas-ai?label=%20) |
 | [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)            | 利用LLM将自然语言需求转化为可工作的软件。根据多次问答确定开发细节。 | Code                             | open                   | Web ui           | Local                | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/kuafuai/DevOpsGPT?label=%20) |
-| [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | 通过读取屏幕，语音或文字输入帮助完成任务                     | Code                             | open                   | App, pip package | Local                | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/onuratakan/gpt-computer-assistant?label=%20) |
+| [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | 通过读取屏幕，语音或文字输入帮助完成任务                     | Code                             | open                   | App, pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Groq](https://console.groq.com/keys), [Google Gemini](https://ai.google.dev/gemini-api), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/onuratakan/gpt-computer-assistant?label=%20) |
 
 ### Research
 
