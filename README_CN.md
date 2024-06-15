@@ -89,6 +89,7 @@
 | [lollms-webui](https://github.com/ParisNeo/lollms-webui) | 该项目旨在提供一个用户友好的界面，以便访问和利用各种LLM和其他人工智能模型来执行各种任务。 | open                   | Local only           | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/ParisNeo/lollms-webui?label=%20) |
 | [FastGPT](https://github.com/labring/FastGPT)            | 基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景 | open                   | Both+official        | 全能, 本地模型                                               | ![GitHub last commit](https://img.shields.io/github/last-commit/labring/FastGPT?label=%20) |
 | [DocsGPT](https://github.com/arc53/DocsGPT)              | 简化了在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松提出关于项目的问题并获得准确的答案 | open                   | Both+official        | [OpenAI](https://platform.openai.com/playground), [Claude](https://www.anthropic.com/), 本地模型(特别微调的模型) | ![GitHub last commit](https://img.shields.io/github/last-commit/arc53/DocsGPT?label=%20) |
+| [MaxKB](https://github.com/1Panel-dev/MaxKB)             | 开箱即用、支持无缝嵌入和多模型对接的企业级知识库问答系统     | open                   | Both+official        | 全能, 本地模型                                               | ![GitHub last commit](https://img.shields.io/github/last-commit/1Panel-dev/MaxKB?label=%20) |
 
 ### Task
 
