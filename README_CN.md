@@ -37,6 +37,7 @@
 | [khoj](https://github.com/khoj-ai/khoj)                      | 通过整合笔记、文件和网络的实时信息，创建始终可用的个人 AI 代理，以扩展您的能力。 | open                   | Both+official        | [OpenAI](https://platform.openai.com/playground), [Claude](https://www.anthropic.com/), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/khoj-ai/khoj?label=%20) |
 | [h2ogpt](https://github.com/h2oai/h2ogpt)                    | 查询和总结您的文档，或者只是与本地私人 GPT LLMs 进行聊天     | open                   | Local only           | 本地模型                                                     | ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2ogpt?label=%20) |
 | [quivr](https://github.com/QuivrHQ/quivr)                    | 创建 AI 助手，可以连接特定的数据源，或用工具处理特定输入以生成实用输出 | open                   | both                 | [OpenAI](https://platform.openai.com/playground), 本地模型   | ![GitHub last commit](https://img.shields.io/github/last-commit/QuivrHQ/quivr?label=%20) |
+| [open-webui](https://github.com/open-webui/open-webui)       | 支持Docker或Kubernetes，提供多种模型支持，渐进式Web应用，支持社区插件，试吃RAG与网络搜索 | open                   | Local only           | [OpenAI](https://platform.openai.com/playground), 本地模型   | ![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui?label=%20) |
 
 ### Desktop app
 
@@ -103,6 +104,8 @@
 | [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)        | 用生成式人工智能来探索、清洗和分析数据。                     | Data analysis                    | open                   | pip package      | Local                | [OpenAI](https://platform.openai.com/playground), [some strange model](https://docs.pandas-ai.com/llms) | ![GitHub last commit](https://img.shields.io/github/last-commit/Sinaptik-AI/pandas-ai?label=%20) |
 | [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)            | 利用LLM将自然语言需求转化为可工作的软件。根据多次问答确定开发细节。 | Code                             | open                   | Web ui           | Local                | [OpenAI](https://platform.openai.com/playground)             | ![GitHub last commit](https://img.shields.io/github/last-commit/kuafuai/DevOpsGPT?label=%20) |
 | [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | 通过读取屏幕，语音或文字输入帮助完成任务                     | Code                             | open                   | App, pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Groq](https://console.groq.com/keys), [Google Gemini](https://ai.google.dev/gemini-api), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/onuratakan/gpt-computer-assistant?label=%20) |
+| [zerox](https://github.com/getomni-ai/zerox)                 | 使用视觉模型将PDF转换为Markdown                              | PDF Converter                    | open                   | npm, pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/) | ![GitHub last commit](https://img.shields.io/github/last-commit/getomni-ai/zerox?label=%20) |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | 上传截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）    | Code                             | open                   | Docker, poetry   | Both                 | [OpenAI](https://platform.openai.com/playground),[Claude](https://www.anthropic.com/) | ![GitHub last commit](https://img.shields.io/github/last-commit/abi/screenshot-to-code?label=%20) |
 
 ### Research
 
@@ -116,12 +119,14 @@
 | Name                                                    | Description                                                  | Open- or Close- source | Platform | Self-hosted or Local | Api supported                                                | Last update                                                  |
 | ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------- | -------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | AI 动力的搜索引擎，它深入互联网寻找答案。Perplexity AI 替代品 | open                   | Web ui   | Both                 | [OpenAI](https://platform.openai.com/playground),  [Groq](https://console.groq.com/keys), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/ItzCrazyKns/Perplexica?label=%20) |
+| [MindSearch](https://github.com/InternLM/MindSearch)    | 基于大型语言模型的多智能体网络搜索引擎框架                   | open                   | Web ui   | Both                 | 全能                                                         | ![GitHub last commit](https://img.shields.io/github/last-commit/InternLM/MindSearch?label=%20) |
 
 ### Web crawler
 
 | Name                                                         | Description                                                  | Open- or Close- source | Platform    | Self-hosted or Local | Api supported                                                | Last update                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | ----------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | 一个网络爬虫Python库，使用大型语言模型和直接图逻辑为网站和本地文档创建爬取管道 | open                   | pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), [Groq](https://console.groq.com/keys), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/VinciGit00/Scrapegraph-ai?label=%20) |
+| [crawl4ai](https://github.com/unclecode/crawl4ai)            | 一种简化异步网页爬取和数据提取的工具，使爬虫结果更容易被大型语言模型（LLM）和人工智能应用使用。 | open                   | pip package | Local                | All models                                                   | ![GitHub last commit](https://img.shields.io/github/last-commit/unclecode/crawl4ai?label=%20) |
 
 ## Extension
 
