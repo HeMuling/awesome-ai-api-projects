@@ -17,6 +17,8 @@ A list of projects that can use various ai api (e.g. openai api, gemini api .etc
   - [Task](#Task)
   - [Research](#Research)
   - [Web crawler](#Web-crawler)
+  - [Personal Mangement](#Personal-Mangement)
+  - [Podcast](#Podcast)
 - [Extension](#Extension)
   - [Browser](#Browser)
   - [IDE](#IDE)
@@ -125,6 +127,19 @@ A list of projects that can use various ai api (e.g. openai api, gemini api .etc
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | ----------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | A Python library for web crawling, using LLM and direct graph logic to create scraping pipelines for websites and local documents. | open                   | pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), [Groq](https://console.groq.com/keys), local models | ![GitHub last commit](https://img.shields.io/github/last-commit/VinciGit00/Scrapegraph-ai?label=%20) |
 | [crawl4ai](https://github.com/unclecode/crawl4ai)            | A tool that simplifies asynchronous web crawling and data extraction, making it more accessible for large language models (LLMs) and AI applications. | open                   | pip package | Local                | All models                                                   | ![GitHub last commit](https://img.shields.io/github/last-commit/unclecode/crawl4ai?label=%20) |
+
+### Personal Mangement
+
+| Name                                              | Description                                                  | Open- or Close- source | Self-hosted or Local | Platform         | Api supported                                    | Last update                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------ | ---------------------- | -------------------- | ---------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| [pensieve](https://github.com/arkohut/pensieve)   | A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally. | open                   | Local                | Web ui           | Any OpenAI API models; Local models              | ![GitHub last commit](https://img.shields.io/github/last-commit/arkohut/pensieve?label=%20) |
+| [BabelDuck](https://github.com/Orenoid/BabelDuck) | A multilingual AI speaking practice app that supports voice interaction, allowing for customizable conversation management and enabling users to seek suggestions from the AI on grammar, translation, and refinement, thereby lowering the barriers to language learning. | open                   | Local                | Web ui, official | [OpenAI](https://platform.openai.com/playground) | ![GitHub last commit](https://img.shields.io/github/last-commit/Orenoid/BabelDuck?label=%20) |
+
+### Podcast
+
+| Name                                                   | Description                                                  | Open- or Close- source | Self-hosted or Local | Platform                               | Api supported | Last update                                                  |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | -------------------- | -------------------------------------- | ------------- | ------------------------------------------------------------ |
+| [podcastfy](https://github.com/souzatharsis/podcastfy) | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI | open                   | Local, official      | Web ui (official), pip package (local) | All models    | ![GitHub last commit](https://img.shields.io/github/last-commit/souzatharsis/podcastfy?label=%20) |
 
 ## Extension
 

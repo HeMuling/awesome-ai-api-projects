@@ -17,6 +17,8 @@
   - [Task](#Task)
   - [Research](#Research)
   - [Web crawler](#Web-crawler)
+  - [Personal Mangement](#Personal-Mangement)
+  - [Podcast](#Podcast)
 - [Extension](#Extension)
   - [Browser](#Browser)
   - [IDE](#IDE)
@@ -127,6 +129,19 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | ----------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | 一个网络爬虫Python库，使用大型语言模型和直接图逻辑为网站和本地文档创建爬取管道 | open                   | pip package | Local                | [OpenAI](https://platform.openai.com/playground), [Google Gemini](https://ai.google.dev/gemini-api), [Claude](https://www.anthropic.com/), [Groq](https://console.groq.com/keys), 本地模型 | ![GitHub last commit](https://img.shields.io/github/last-commit/VinciGit00/Scrapegraph-ai?label=%20) |
 | [crawl4ai](https://github.com/unclecode/crawl4ai)            | 一种简化异步网页爬取和数据提取的工具，使爬虫结果更容易被大型语言模型（LLM）和人工智能应用使用。 | open                   | pip package | Local                | All models                                                   | ![GitHub last commit](https://img.shields.io/github/last-commit/unclecode/crawl4ai?label=%20) |
+
+### Personal Mangement
+
+| Name                                              | Description                                                  | Open- or Close- source | Self-hosted or Local | Platform         | Api supported                                    | Last update                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------ | ---------------------- | -------------------- | ---------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| [pensieve](https://github.com/arkohut/pensieve)   | 被动录制项目让您完全掌控您的数据。自动截取所有屏幕的截图，对其进行索引，并将其保存在本地。 | open                   | Local                | Web ui           | Any OpenAI API models; Local models              | ![GitHub last commit](https://img.shields.io/github/last-commit/arkohut/pensieve?label=%20) |
+| [BabelDuck](https://github.com/Orenoid/BabelDuck) | 一款支持语音交互的多语言 AI 口语练习应用，可定制化管理对话，并向 AI 寻求语法、翻译和润色等建议，降低语言学习门槛。 | open                   | Local                | Web ui, official | [OpenAI](https://platform.openai.com/playground) | ![GitHub last commit](https://img.shields.io/github/last-commit/Orenoid/BabelDuck?label=%20) |
+
+### Podcast
+
+| Name                                                   | Description                                                  | Open- or Close- source | Self-hosted or Local | Platform                               | Api supported | Last update                                                  |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- | -------------------- | -------------------------------------- | ------------- | ------------------------------------------------------------ |
+| [podcastfy](https://github.com/souzatharsis/podcastfy) | 开源Python替代NotebookLM播客功能：利用GenAI将多模态内容转化为引人入胜的多语言音频对话 | open                   | Local, official      | Web ui (official), pip package (local) | All models    | ![GitHub last commit](https://img.shields.io/github/last-commit/souzatharsis/podcastfy?label=%20) |
 
 ## Extension
 
